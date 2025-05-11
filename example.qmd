@@ -8,4 +8,10 @@ editor: visual
 
 ## This is a demo of reproducible workflows.
 
+<<<<<<< HEAD
 This is a conflicting change from main git
+=======
+## This is from testbranch 
+
+## 
+>>>>>>> testbranch
